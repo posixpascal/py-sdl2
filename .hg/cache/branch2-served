@@ -1,0 +1,12 @@
+e8383bc35e4a010d9364247de640d62fa2897bb1 286
+b895289d34b03c263a5017f7a2416c5d4adc3eae c Anonymouse2048/fix-typo-in-example-code-1410456340882
+2a12efc3c3c43a04144ac29b8c3b220e95841613 c MaxBareiss/sdl2rst-typo-fix-1407943673937
+e8383bc35e4a010d9364247de640d62fa2897bb1 o default
+d4cf87902294bf7b1609543251f75d303fb18237 c fix-bitmapfont
+e62b57ab0ce3a94a95e916eb63005e75f25a5422 c fix-docs-sprite
+f45158025ca779ddc2a7efc5fd932c3088106ca8 c johny22/no-windows-o-comando-no-funciona-perfeit-1446736255373
+10cb7fa2e21d81571c563319e09d8d017c9c18a1 c shjohnson_pi/fix-draw_rect-call-to-use-sdl_rect-1374226056513
+bdef44bed6b3c018f3e2d7239edfd314df3f786e c shjohnson_pi/fix-strsoftwaresprite-by-dereferencing-p-1374290024730
+03cbcb178ec9c6d847a6c0d3434ba38c59534987 c smea/fixed-horizontalvertical-line-drawing-in-1423350457867
+6b37cc10e64257e96a215bc34a21eff669b1d661 c sub-sprite
+78160b6800f8ea8b0912c9ff5170079ac6ce1c4c c tests-logfile
